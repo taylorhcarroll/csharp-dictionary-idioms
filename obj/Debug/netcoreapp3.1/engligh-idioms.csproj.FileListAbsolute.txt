@@ -1,0 +1,10 @@
+/Users/taylorcarroll/workspace/C37/engligh-idioms/bin/Debug/netcoreapp3.1/engligh-idioms.deps.json
+/Users/taylorcarroll/workspace/C37/engligh-idioms/bin/Debug/netcoreapp3.1/engligh-idioms.runtimeconfig.json
+/Users/taylorcarroll/workspace/C37/engligh-idioms/bin/Debug/netcoreapp3.1/engligh-idioms.runtimeconfig.dev.json
+/Users/taylorcarroll/workspace/C37/engligh-idioms/bin/Debug/netcoreapp3.1/engligh-idioms.dll
+/Users/taylorcarroll/workspace/C37/engligh-idioms/bin/Debug/netcoreapp3.1/engligh-idioms.pdb
+/Users/taylorcarroll/workspace/C37/engligh-idioms/obj/Debug/netcoreapp3.1/engligh-idioms.csprojAssemblyReference.cache
+/Users/taylorcarroll/workspace/C37/engligh-idioms/obj/Debug/netcoreapp3.1/engligh-idioms.AssemblyInfoInputs.cache
+/Users/taylorcarroll/workspace/C37/engligh-idioms/obj/Debug/netcoreapp3.1/engligh-idioms.AssemblyInfo.cs
+/Users/taylorcarroll/workspace/C37/engligh-idioms/obj/Debug/netcoreapp3.1/engligh-idioms.dll
+/Users/taylorcarroll/workspace/C37/engligh-idioms/obj/Debug/netcoreapp3.1/engligh-idioms.pdb
